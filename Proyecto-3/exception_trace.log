@@ -1,0 +1,239 @@
+
+proyecto-3: PANIC: Unexpected harmful signal (Segmentation violation) ...
+
+proyecto-3: system execution failed.
+Following is the set of recorded exceptions.
+NB: The raised panic may have induced completely inconsistent information:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+MAIN                make @9                Segmentation violation:      
+<000000000421B5A8>                         Operating system signal.      Fail
+-------------------------------------------------------------------------------
+MAIN                make @9                                             
+<000000000421B5A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                root's creation                                     
+<000000000421B5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+MAIN                root's creation        Unexpected harmful signal (Segmentation violation):
+<000000000421B5A8>                         Eiffel run-time panic.        Bye
+-------------------------------------------------------------------------------
+
+proyecto-3: PANIC: Unexpected harmful signal (Segmentation violation) ...
+
+proyecto-3: system execution failed.
+Following is the set of recorded exceptions.
+NB: The raised panic may have induced completely inconsistent information:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+MAIN                make @9                Segmentation violation:      
+<00000000042D05A8>                         Operating system signal.      Fail
+-------------------------------------------------------------------------------
+MAIN                make @9                                             
+<00000000042D05A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                root's creation                                     
+<00000000042D05A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+MAIN                root's creation        Unexpected harmful signal (Segmentation violation):
+<00000000042D05A8>                         Eiffel run-time panic.        Bye
+-------------------------------------------------------------------------------
+
+proyecto-3: PANIC: Unexpected harmful signal (Segmentation violation) ...
+
+proyecto-3: system execution failed.
+Following is the set of recorded exceptions.
+NB: The raised panic may have induced completely inconsistent information:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+MAIN                make @9                Segmentation violation:      
+<00000000042535A8>                         Operating system signal.      Fail
+-------------------------------------------------------------------------------
+MAIN                make @9                                             
+<00000000042535A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                root's creation                                     
+<00000000042535A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+MAIN                root's creation        Unexpected harmful signal (Segmentation violation):
+<00000000042535A8>                         Eiffel run-time panic.        Bye
+-------------------------------------------------------------------------------
+
+proyecto-3: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+ARRAY               put @3                 valid_index:                 
+<000000000423F5F8>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+MAIN                generar_objetos @9                                  
+<000000000423F5A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                make @13                                            
+<000000000423F5A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                root's creation                                     
+<000000000423F5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+proyecto-3: PANIC: Unexpected harmful signal (Segmentation violation) ...
+
+proyecto-3: system execution failed.
+Following is the set of recorded exceptions.
+NB: The raised panic may have induced completely inconsistent information:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+FF                  procesar @4            Segmentation violation:      
+<00000000042C7F98>                         Operating system signal.      Fail
+-------------------------------------------------------------------------------
+FF                  procesar @4                                         
+<00000000042C7F98>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                make @17                                            
+<00000000042C1588>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                root's creation                                     
+<00000000042C1588>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+MAIN                root's creation        Unexpected harmful signal (Segmentation violation):
+<00000000042C1588>                         Eiffel run-time panic.        Bye
+-------------------------------------------------------------------------------
+
+proyecto-3: PANIC: Unexpected harmful signal (Segmentation violation) ...
+
+proyecto-3: system execution failed.
+Following is the set of recorded exceptions.
+NB: The raised panic may have induced completely inconsistent information:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+FF                  procesar @4            Segmentation violation:      
+<000000000430FFB8>                         Operating system signal.      Fail
+-------------------------------------------------------------------------------
+FF                  procesar @4                                         
+<000000000430FFB8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                make @17                                            
+<00000000043095A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                root's creation                                     
+<00000000043095A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+MAIN                root's creation        Unexpected harmful signal (Segmentation violation):
+<00000000043095A8>                         Eiffel run-time panic.        Bye
+-------------------------------------------------------------------------------
+
+proyecto-3: PANIC: Unexpected harmful signal (Segmentation violation) ...
+
+proyecto-3: system execution failed.
+Following is the set of recorded exceptions.
+NB: The raised panic may have induced completely inconsistent information:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+FF                  procesar @4            Segmentation violation:      
+<0000000004273FB8>                         Operating system signal.      Fail
+-------------------------------------------------------------------------------
+FF                  procesar @4                                         
+<0000000004273FB8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                make @17                                            
+<000000000426D5A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                root's creation                                     
+<000000000426D5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+MAIN                root's creation        Unexpected harmful signal (Segmentation violation):
+<000000000426D5A8>                         Eiffel run-time panic.        Bye
+-------------------------------------------------------------------------------
+
+proyecto-3: dumping core to generate debugging information...
+
+proyecto-3: PANIC: Unexpected harmful signal (Segmentation violation) ...
+
+proyecto-3: system execution failed.
+Following is the set of recorded exceptions.
+NB: The raised panic may have induced completely inconsistent information:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+FF                  procesar @4            Segmentation violation:      
+<0000000004329FB8>                         Operating system signal.      Fail
+-------------------------------------------------------------------------------
+FF                  procesar @4                                         
+<0000000004329FB8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                make @17                                            
+<00000000043235A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                root's creation                                     
+<00000000043235A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+MAIN                root's creation        Unexpected harmful signal (Segmentation violation):
+<00000000043235A8>                         Eiffel run-time panic.        Bye
+-------------------------------------------------------------------------------
+
+proyecto-3: PANIC: Unexpected harmful signal (Segmentation violation) ...
+
+proyecto-3: system execution failed.
+Following is the set of recorded exceptions.
+NB: The raised panic may have induced completely inconsistent information:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+FF                  procesar @4            Segmentation violation:      
+<00000000041A6198>                         Operating system signal.      Fail
+-------------------------------------------------------------------------------
+FF                  procesar @4                                         
+<00000000041A6198>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                make @17                                            
+<000000000419F5A8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAIN                root's creation                                     
+<000000000419F5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+MAIN                root's creation        Unexpected harmful signal (Segmentation violation):
+<000000000419F5A8>                         Eiffel run-time panic.        Bye
+-------------------------------------------------------------------------------
